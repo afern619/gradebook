@@ -1,0 +1,4 @@
+Amanda, Fernandez, 12345, C+
+Adriel, Camargo, 12145, B-
+Melissa, Busquet, 12045, A
+Ivonne, Perez, 11445, F
