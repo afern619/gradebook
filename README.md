@@ -5,10 +5,16 @@ The gradebook program is a class project that uses Java, maps and the comparable
 Grade.
 
 With this program we can:
+
 *Import information from a file
+
 *Print out all the map's information into a file
+
 *Print out all the students that have a specific grade
+
 *Add more students to the map
+
 *Find the grade of a certain student
+
 *Find the average of the students' grades
 
